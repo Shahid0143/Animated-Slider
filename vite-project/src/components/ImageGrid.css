@@ -38,7 +38,7 @@
 }
 
 .left-arrow {
-  left: -20px;
+  left: -15px;
 }
 
 .arrow:hover {
@@ -57,6 +57,6 @@
   }
 
   .arrow.left-arrow {
-    left: -20px;
+    left: -15px;
   }
 }
